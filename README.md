@@ -13,6 +13,7 @@ Add the access link to the NoSQL database (eg. [mlab atlas](https://mlab.com/log
 To run this repository, kindly run:
 ```bash
 npm install
+nodemon app.js
 ```
 ## Code-Structure
 The repository follows the MVC code structure.
