@@ -41,3 +41,6 @@ The repository follows the MVC code structure.
 |
 .
 ```
+## Functionality
+- To add: Enter the item and click on Submit or press enter.
+- To remove: Click on the item which would be initially striked off followed by removal.
