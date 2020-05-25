@@ -32,6 +32,7 @@ The repository follows the MVC code structure.
 |  
 ├── views           
 |   ├── todo.ejs                # View script. 
+|
 ├── node_modules                # Node modules required      
 |
 ├── package.json                # App info     
