@@ -5,9 +5,14 @@
 Clone this repository:
 
 ```bash
-git clone https://github.com/ahirsharan/MTL_Segmentation.git
+git clone https://github.com/ahirsharan/ToDo-App.git
 ```
+
+Add the access link to the NoSQL database (eg. mlab atlas) to the TodoController.js
+
 To run this repository, kindly run:
 ```bash
 npm install
 ```
+
+
