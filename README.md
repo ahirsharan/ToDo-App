@@ -8,7 +8,7 @@ Clone this repository:
 git clone https://github.com/ahirsharan/ToDo-App.git
 ```
 
-Add the access link to the NoSQL database (eg. mlab atlas) to the TodoController.js
+Add the access link to the NoSQL database (eg. [mlab atlas](https://mlab.com/login/)) to the TodoController.js
 
 To run this repository, kindly run:
 ```bash
