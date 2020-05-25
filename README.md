@@ -15,6 +15,8 @@ To run this repository, kindly run:
 npm install
 nodemon app.js
 ```
+The app would be hosted at http://localhost:3000/todo
+
 ## Code-Structure
 The repository follows the MVC code structure.
 
